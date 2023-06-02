@@ -3,3 +3,4 @@ I am Ivan Borisov
 I want something to read here now
 I added this string
 Something here too
+Commit it with  git commit -a -m "commit with commit -a -m"
